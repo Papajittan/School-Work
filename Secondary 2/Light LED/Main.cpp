@@ -1,5 +1,4 @@
 // C++ code light led by No.6 Papawit Saeliw
-//E
 int red=2;
 int green=4;
 int yellow=7;

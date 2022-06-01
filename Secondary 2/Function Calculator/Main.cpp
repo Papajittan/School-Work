@@ -1,5 +1,4 @@
 // C++ code function calculator No.06 Papawit Saeliw
-//E
 int m = 9;
 int n = 11;
 int add;

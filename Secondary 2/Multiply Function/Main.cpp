@@ -1,5 +1,5 @@
 // C++ code multiply funcion by No.6 Papawit Saeliw
-//E
+//
 long int num1;
 long int num2;
 long int answer;
