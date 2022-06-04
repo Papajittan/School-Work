@@ -60,28 +60,22 @@ void second(){
 }
 //step 4
 void third(){
+  for(int l=1; l<3; l++){
   digitalWrite(red, HIGH);
   delay(500);
   digitalWrite(red, LOW);
   delay(500);
-  digitalWrite(red, HIGH);
-  delay(500);
-  digitalWrite(red, LOW);
-  delay(500);
+  }
+  for(int l=1; l<3; l++){
   digitalWrite(green,HIGH);
   delay(500);
   digitalWrite(green,LOW);
   delay(500);
-  digitalWrite(green,HIGH);
-  delay(500);
-  digitalWrite(green,LOW);
-  delay(500);
+  }
+  for(int l=1; l<3; l++){
   digitalWrite(yellow,HIGH);
   delay(500);
   digitalWrite(yellow,LOW);
   delay(500);
-  digitalWrite(yellow,HIGH);
-  delay(500);
-  digitalWrite(yellow,LOW);
-  delay(500);
-}
+  }
+}}
